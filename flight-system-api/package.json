@@ -2,8 +2,6 @@
   "name": "flight-system",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/rafaewaqarqazi/flight-system-client.git",
-  "author": "rafaewaqarqazi <rafaewaqar@gmail.com>",
   "license": "MIT",
   "scripts": {
     "server": "nodemon app.js",
