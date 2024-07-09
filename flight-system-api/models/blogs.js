@@ -7,5 +7,4 @@ const blogsSchema = new mongoose.Schema({
   images: [{ filename: String }],
   createdAt: Date
 });
-
 module.exports = mongoose.model("blogs", blogsSchema);
